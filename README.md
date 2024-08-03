@@ -22,8 +22,8 @@ The bot is designed to:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/instagram-bot.git
-    cd instagram-bot
+    git clone https://github.com/MRJOHN5ON/igbot
+    cd igbot
     ```
 
 2. **Create a Virtual Environment**
